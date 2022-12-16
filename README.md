@@ -39,8 +39,15 @@ Creation of a web app that allows users to see the weather forecast for cities o
     * The temperature
     * The humidity
 * When a user clicks on a city in the search history they are again presented with current and future conditions for that city.
+<br />
 
 ## Screenshot
 
 ## Demo
+<br />
+
+## Contributors
+* Adam Sall - <a href="https://github.com/Kaiyfa">@Kaiyfa</a>
+* Chris-Eric Dagbo - <a href="https://github.com/cedagbo">@cedagbo</a>
+* Vittoria Bugana - <a href="https://github.com/vbugana">@vbugana</a>
 
