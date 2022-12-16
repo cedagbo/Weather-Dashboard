@@ -40,3 +40,5 @@ Creation of a web app that allows users to see the weather forecast for cities o
     * The humidity
 * When a user clicks on a city in the search history they are again presented with current and future conditions for that city.
 
+## Screenshot
+
