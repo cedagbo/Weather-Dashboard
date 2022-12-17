@@ -51,3 +51,16 @@ Creation of a web app that allows users to see the weather forecast for cities o
 * Chris-Eric Dagbo - <a href="https://github.com/cedagbo">@cedagbo</a>
 * Vittoria Bugana - <a href="https://github.com/vbugana">@vbugana</a>
 
+<br />
+
+## Deployment
+* 👉 Website → <a href="#"></a>
+* 👉 Repository → <a href="https://github.com/cedagbo/Weather-Dashboard"> GitHub Repository </a>
+<br />
+
+## Technologies
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
