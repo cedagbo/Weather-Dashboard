@@ -11,7 +11,6 @@ Creation of a web app that allows users to see the weather forecast for cities o
 * Contributors
 * Deployment
 * Technologies
-* Installation
 * Usage
 * Documentation
 * License
@@ -64,3 +63,5 @@ Creation of a web app that allows users to see the weather forecast for cities o
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+
+## Usage
