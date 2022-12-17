@@ -65,3 +65,12 @@ Creation of a web app that allows users to see the weather forecast for cities o
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
 ## Usage
+
+<br />
+
+## Documentation
+
+<br />
+
+## License
+MIT License
