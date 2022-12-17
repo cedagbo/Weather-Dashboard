@@ -15,6 +15,8 @@ Creation of a web app that allows users to see the weather forecast for cities o
 * Documentation
 * License
 
+<br />
+
 ## User Story
 <pre>
     AS A traveler
@@ -23,7 +25,7 @@ Creation of a web app that allows users to see the weather forecast for cities o
 </pre>
 
 ## Acceptance Criteria
-* create a weather dashboard with form inputs.
+* Create a weather dashboard with form inputs.
 * When a user searches for a city they are presented with current and future conditions for that city and that city is added to the search history.
 * When a user vies the current weather conditions for that city they are presented with:
     * The city name
@@ -39,10 +41,14 @@ Creation of a web app that allows users to see the weather forecast for cities o
     * The humidity
 * When a user clicks on a city in the search history they are again presented with current and future conditions for that city.
 <br />
+<br />
 
 ## Screenshot
 
+<br />
+
 ## Demo
+
 <br />
 
 ## Contributors
