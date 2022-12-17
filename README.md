@@ -1,7 +1,7 @@
 # Weather-Dashboard
 
 ## Description
-Creation of a web app that allows users to see the weather forecast for cities of their choosing
+Creation of a web app that allows users to see the weather forecast for cities of their choosing.
 
 ## Contents
 * User Story
