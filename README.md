@@ -45,19 +45,17 @@ Creation of a web app that allows users to see the weather forecast for cities o
 ## Screenshot
 <img src="./images/Weather-Dashboard_screenshot.png">
 <br />
-<br />
 
 ## Contributors
-* Adam Sall - <a href="https://github.com/Kaiyfa">@Kaiyfa</a>
-* Chris-Eric Dagbo - <a href="https://github.com/cedagbo">@cedagbo</a>
-* Vittoria Bugana - <a href="https://github.com/vbugana">@vbugana</a>
+* <a href="https://github.com/Kaiyfa">Adam Sall</a>
+* <a href="https://github.com/cedagbo">Chris-Eric Dagbo</a>
+* <a href="https://github.com/vbugana">Vittoria Bugana</a>
 
 <br />
 
 ## Deployment
 * 👉 Website → <a href="https://cedagbo.github.io/Weather-App/">Deployed Application</a>
 * 👉 Repository → <a href="https://github.com/cedagbo/Weather-Dashboard"> GitHub Repository </a>
-<br />
 <br />
 
 ## Usage
@@ -94,4 +92,4 @@ Creation of a web app that allows users to see the weather forecast for cities o
 <br />
 
 ## License
-MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/siennameow/Weather-Dashboard/blob/main/LICENSE)
