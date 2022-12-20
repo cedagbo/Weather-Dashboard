@@ -7,7 +7,6 @@ Creation of a web app that allows users to see the weather forecast for cities o
 * User Story
 * Acceptance Criteria
 * Screenshot
-* Demo
 * Contributors
 * Deployment
 * Technologies
@@ -44,11 +43,8 @@ Creation of a web app that allows users to see the weather forecast for cities o
 <br />
 
 ## Screenshot
-
+<img src="./images/Weather-Dashboard_screenshot.png">
 <br />
-
-## Demo
-
 <br />
 
 ## Contributors
