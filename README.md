@@ -55,18 +55,19 @@ Creation of a web app that allows users to see the weather forecast for cities o
 <br />
 
 ## Deployment
-* 👉 Website → <a href="#"></a>
+* 👉 Website → <a href="https://cedagbo.github.io/Weather-App/">Deployed Application</a>
 * 👉 Repository → <a href="https://github.com/cedagbo/Weather-Dashboard"> GitHub Repository </a>
+<br />
 <br />
 
 ## Usage
 <pre>
-    1. Navigate to <a>https://cedagbo.github.io/Weather-App/</a>
-    2. Tap a city name in the field
-    3. Click on the search button
+    1. Navigate to <a>https://cedagbo.github.io/Weather-App/ </a>
+    2. Tap a city name in the field.
+    3. Click on the search button.
     4. You will get right away the current weather conditions and the 5-day forecast 
-       about the given city
-    5. Even when you refresh the page your search history remains available on the deployed application
+       about the given city.
+    5. Even when you refresh the page your search history remains available on the deployed application.
 </pre>
 <br />
 
