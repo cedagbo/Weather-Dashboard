@@ -8,6 +8,7 @@
 .search-button{
     width: 190px;
     background-color: var(--black);
+    border-radius: 7px;
     cursor: pointer;
 }
 
