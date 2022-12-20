@@ -60,7 +60,14 @@ Creation of a web app that allows users to see the weather forecast for cities o
 <br />
 
 ## Usage
-
+<pre>
+    1. Navigate to <a>https://cedagbo.github.io/Weather-App/</a>
+    2. Tap a city name in the field
+    3. Click on the search button
+    4. You will get right away the current weather conditions and the 5-day forecast 
+       about the given city
+    5. Even when you refresh the page your search history remains available on the deployed application
+</pre>
 <br />
 
 ## Technologies
@@ -77,6 +84,11 @@ Creation of a web app that allows users to see the weather forecast for cities o
 
 
 ## Documentation
+* https://eloquentjavascript.net/
+* https://getbootstrap.com/
+* https://stackoverflow.com/
+* https://www.w3schools.com/
+* https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647
 
 <br />
 
